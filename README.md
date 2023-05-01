@@ -3,7 +3,7 @@
 ## Powershell vs Python
 
 ### [PowerShell vs Python](Articles/Posh_vs_Python.md)
-1. Compare Variables, Datatypes
+1. Compare Variables, Datatypes [Link](Articles/Posh_vs_Python.md#1.-Variables-and-Data-Types:)
 2. Compare Conditional statements
 3. Compare Loops
 4. Compare Functions
